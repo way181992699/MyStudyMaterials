@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf639dc-c1e9-4fcd-9407-7602da789235" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/DesignPatternIntro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/FactoryPattern/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/FactoryPattern/FactoryClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/FactoryPattern/FactoryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/FactoryPattern/FactoryPatternIntro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/FactoryPattern/HandsomeBoy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/FactoryPattern/PiquantBoy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/FactoryPattern/SunBoy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/classbean/ClassBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/classbean/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingletonPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/ClassLoaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/_JVM_LoadingProcedure" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ym/learn/classbean/ClassBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ym/learn/classbean/ClassBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ym/learn/classbean/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ym/learn/classbean/Name.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,35 +26,38 @@
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="DesignPatternIntro" value="7" />
-          <entry key="java" value="1438" />
+          <entry key="java" value="1736" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1438" />
+          <entry key="JAVA" value="1736" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="DesignPatternIntro" value="1" />
+          <entry key="DesignPatternIntro" value="2" />
           <entry key="FactoryPatternIntro" value="1" />
+          <entry key="LoadingProcedure" value="1" />
+          <entry key="_JVM_LoadingProcedure" value="1" />
           <entry key="class" value="1" />
-          <entry key="java" value="12" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="12" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="18" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -64,22 +65,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/classbean/ClassBean.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="31" column="55" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="55" />
+            <state relative-caret-position="127">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/classbean/Name.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingletonPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="247">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="58" />
               <folding>
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,6 +112,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Name Class Loaded</find>
+      <find>System.out</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -121,6 +136,14 @@
         <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/FactoryPattern/FactoryMain.java" />
         <option value="$PROJECT_DIR$/src/com/ym/learn/classbean/Name.java" />
         <option value="$PROJECT_DIR$/src/com/ym/learn/classbean/ClassBean.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/LoadingProcedure" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/JVMLoading.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/ClassLoaderDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingletonPattern.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingletonPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleObject.java" />
       </list>
     </option>
   </component>
@@ -131,10 +154,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-88" />
-    <option name="y" value="67" />
+    <option name="x" value="217" />
+    <option name="y" value="60" />
     <option name="width" value="1517" />
     <option name="height" value="796" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -181,7 +207,36 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ym" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="classbean" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStudyMaterials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStudyMaterials" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ym" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStudyMaterials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStudyMaterials" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ym" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStudyMaterials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStudyMaterials" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ym" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmLoad" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyStudyMaterials" type="b2602c69:ProjectViewProjectNode" />
@@ -192,9 +247,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,7 +258,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539943709131" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541067407674" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -225,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClassBean">
+  <component name="RunManager" selected="Application.SingletonPatternDemo">
     <configuration name="ClassBean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ym.learn.classbean.ClassBean" />
       <module name="MyStudyMaterials" />
@@ -239,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ym.learn.DesignPattern.FactoryPattern.FactoryMain" />
+    <configuration name="ClassLoaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ym.learn.jvm.jvmLoad.ClassLoaderDemo" />
       <module name="MyStudyMaterials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ym.learn.DesignPattern.FactoryPattern.*" />
+          <option name="PATTERN" value="com.ym.learn.jvm.jvmLoad.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,18 +307,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryMain.getBoy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SingletonPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ym.learn.DesignPattern.SingletonPattern.SingletonPatternDemo" />
       <module name="MyStudyMaterials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ym.learn.DesignPattern.FactoryPattern.*" />
+          <option name="PATTERN" value="com.ym.learn.DesignPattern.SingletonPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ym.learn.DesignPattern.FactoryPattern" />
-      <option name="MAIN_CLASS_NAME" value="com.ym.learn.DesignPattern.FactoryPattern.FactoryMain" />
-      <option name="METHOD_NAME" value="getBoy" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -301,19 +353,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FactoryMain" />
-      <item itemvalue="JUnit.FactoryMain.getBoy" />
       <item itemvalue="JUnit.FactoryMain.getBoy1" />
       <item itemvalue="JUnit.FactoryMain.getBoy2" />
       <item itemvalue="Application.ClassBean" />
+      <item itemvalue="Application.ClassLoaderDemo" />
+      <item itemvalue="Application.SingletonPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonPatternDemo" />
+        <item itemvalue="Application.ClassLoaderDemo" />
         <item itemvalue="Application.ClassBean" />
         <item itemvalue="JUnit.FactoryMain.getBoy2" />
         <item itemvalue="JUnit.FactoryMain.getBoy1" />
-        <item itemvalue="JUnit.FactoryMain.getBoy" />
-        <item itemvalue="Application.FactoryMain" />
       </list>
     </recent_temporary>
   </component>
@@ -331,6 +383,7 @@
       <workItem from="1539079758660" duration="241000" />
       <workItem from="1539251771246" duration="675000" />
       <workItem from="1539933144766" duration="3139000" />
+      <workItem from="1541058087689" duration="7337000" />
     </task>
     <servers />
   </component>
@@ -367,13 +420,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13148000" />
+    <option name="totallyTimeSpent" value="20485000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-88" y="67" width="1517" height="796" extended-state="0" />
-    <editor active="true" />
+    <frame x="217" y="60" width="1517" height="796" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26012355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26355526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -383,8 +435,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32779455" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969835" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.244713" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39879155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -425,6 +477,14 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/ym/learn/classbean/ClassBean.java</url>
+          <line>13</line>
+          <properties class="com.ym.learn.classbean.ClassBean" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -440,13 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="633" column="19" selection-start-line="633" selection-start-column="19" selection-end-line="633" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/DesignPatternIntro">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -506,18 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
           <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -532,18 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -551,18 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -571,16 +588,73 @@
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ym/learn/classbean/ClassBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="31" column="55" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="55" />
+        <state relative-caret-position="265">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/_JVM_LoadingProcedure">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/DesignPatternIntro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/ClassLoaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="58" />
+          <folding>
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingletonPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

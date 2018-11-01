@@ -6,6 +6,11 @@ public class ClassBean {
         System.out.println("Test Class loaded");//1
     }
 
+    /**
+     * 通过结果可以看出在使用 类名.class获得Class实例时，并不会触发类的初始化，而 Class.forName方法就会触发，
+     * 当然实例化对象(new )肯定也是会触发的，但因为static代码块只执行一次，所以不会再有打印，最后的打印，说明一个类的Class实例只有唯一的一个。
+     * @param args
+     */
     public static void main(String[] args) {
         System.out.println("entern Test main()");//2
 
@@ -23,7 +28,7 @@ public class ClassBean {
             System.out.println("mClassPointClass = " + mClassPointClass);//3
 
             //测试Class.forName()
-            mClassForName = Class.forName("com.ym.learn.classbean.Name");
+            mClassForName = Class.forName("com.ym.learn.classbean.Name");//forName 不会调用构造函数(类的构造函数默认是static的)
             System.out.println("mClassForName = " + mClassForName);//5
 
             //测试Object.getClass()
