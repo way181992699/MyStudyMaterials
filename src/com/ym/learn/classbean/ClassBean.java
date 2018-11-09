@@ -4,6 +4,7 @@ public class ClassBean {
     static {
         Name mName;
         System.out.println("Test Class loaded");//1
+       int a =  Name.count;
     }
 
     /**
