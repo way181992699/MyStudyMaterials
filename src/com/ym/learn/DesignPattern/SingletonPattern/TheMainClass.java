@@ -4,7 +4,10 @@ import org.junit.jupiter.api.Test;
 
 import static com.ym.learn.DesignPattern.SingletonPattern.SingleEnum.INSTANCE;
 
-public class SingletonPatternDemo {
+/**
+ * 关键代码：构造函数是私有的。
+ */
+public class TheMainClass {
     @Test //饿汉
     public void getSingleObject() {
         //不合法的构造函数
