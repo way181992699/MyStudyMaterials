@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 /**
  * java练习题
  */
-public class No1 {
+public class Num1 {
     @Test
     public void test() {
         /**
@@ -18,7 +18,7 @@ public class No1 {
             //   int b = 50 + 50 / 3 + c / 3 + c/3 +c;
             if (c > 2) {
                 count += c / 3;
-                c = No1.sheng(c);
+                c = Num1.sheng(c);
             } else {
                 break;
             }
