@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbf639dc-c1e9-4fcd-9407-7602da789235" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/LinkStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/Num10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/Num2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/Num3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/Num4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/Num5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/Num6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/Num7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/Num8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/Num9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/info" afterDir="false" />
+    <list default="true" id="bbf639dc-c1e9-4fcd-9407-7602da789235" name="Default Changelist" comment="新增黑马程序员内部十道题解答">
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/callback/Callback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/callback/Cindy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/callback/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/callback/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/callback/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/list/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/list/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/list/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/list/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/list/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/list/pojo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ym/learn/socket/ClientTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyStudyMaterials/com/ym/learn/exercises/No1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ym/learn/exercises/No1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ym/learn/exercises/Num1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,42 +74,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Num3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num3.java">
+      <file leaf-file-name="ListTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/list/ListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-              <folding>
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="info" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/info">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" selection-start-line="31" selection-end-line="33" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Num9.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Num10.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="342">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,62 +86,99 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Num1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num1.java">
+      <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Iterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="570">
+              <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Num2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num2.java">
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+            <state relative-caret-position="8626">
+              <caret line="491" column="26" selection-start-line="491" selection-start-column="26" selection-end-line="491" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#6252#6253#0" expanded="true" />
+                <element signature="e#6320#6321#0" expanded="true" />
+                <element signature="e#15414#15415#0" expanded="true" />
+                <element signature="e#15459#15460#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Num8.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num8.java">
+      <file leaf-file-name="ThreadTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/thread/ThreadTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/LinkStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Num6.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="703">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Num7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num7.java">
+      <file leaf-file-name="Callback.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/callback/Callback.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="38">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/callback/Teacher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="40" />
+              <folding>
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/callback/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/callback/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cindy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ym/learn/callback/Cindy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="System.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8550">
+              <caret line="494" column="52" selection-start-line="494" selection-start-column="52" selection-end-line="494" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -192,6 +197,10 @@
     <findStrings>
       <find>Name Class Loaded</find>
       <find>System.out</find>
+      <find>modCount</find>
+      <find>iterator</find>
+      <find>size</find>
+      <find>/Repository</find>
     </findStrings>
     <replaceStrings>
       <replace>Cindy</replace>
@@ -204,21 +213,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/JVMLoading.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/ClassLoaderDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/TestBase.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/jvm/jvmLoad/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingletonPattern.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleObject.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/classbean/ClassBean.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleRegister.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleLazySafety.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleLazy.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleDCL.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingletonPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleEnum.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/enumBean/EnumDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/ym/learn/enumBean/EnumMain.java" />
         <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/Info" />
         <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/TemplatePattern/Info" />
         <option value="$PROJECT_DIR$/src/com/ym/learn/DesignPattern/TemplatePattern/EveryDay.java" />
@@ -255,6 +249,21 @@
         <option value="$PROJECT_DIR$/src/com/ym/learn/exercises/Num10.java" />
         <option value="$PROJECT_DIR$/src/com/ym/learn/exercises/Num1.java" />
         <option value="$PROJECT_DIR$/src/com/ym/learn/exercises/Num6.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/socketClient/ClientTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/socket/ClientTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/list/pojo1.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/list/D.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/list/B.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/list/A.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/list/C.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/list/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/thread/ThreadPrint.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/thread/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/callback/Callback.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/callback/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/callback/Cindy.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/callback/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ym/learn/callback/Teacher.java" />
       </list>
     </option>
   </component>
@@ -268,10 +277,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="544" />
-    <option name="y" value="161" />
-    <option name="width" value="1686" />
-    <option name="height" value="833" />
+    <option name="x" value="16" />
+    <option name="y" value="97" />
+    <option name="width" value="1608" />
+    <option name="height" value="952" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -307,21 +316,7 @@
               <item name="MyStudyMaterials" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyStudyMaterials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyStudyMaterials" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyStudyMaterials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyStudyMaterials" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="callback" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyStudyMaterials" type="b2602c69:ProjectViewProjectNode" />
@@ -371,71 +366,110 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Num8">
-    <configuration name="Num10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ym.learn.exercises.Num10" />
+  <component name="RunManager" selected="JUnit.Main.test00">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ym.learn.callback.Main" />
       <module name="MyStudyMaterials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ym.learn.exercises.*" />
+          <option name="PATTERN" value="com.ym.learn.callback.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Num5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ym.learn.exercises.Num5" />
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ym.learn.thread.ThreadTest" />
       <module name="MyStudyMaterials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ym.learn.exercises.*" />
+          <option name="PATTERN" value="com.ym.learn.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Num6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ym.learn.exercises.Num6" />
+    <configuration name="Main.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyStudyMaterials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ym.learn.exercises.*" />
+          <option name="PATTERN" value="com.ym.learn.callback.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ym.learn.callback" />
+      <option name="MAIN_CLASS_NAME" value="com.ym.learn.callback.Main" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="Num8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ym.learn.exercises.Num8" />
+    <configuration name="Main.test00" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyStudyMaterials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ym.learn.exercises.*" />
+          <option name="PATTERN" value="com.ym.learn.callback.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ym.learn.callback" />
+      <option name="MAIN_CLASS_NAME" value="com.ym.learn.callback.Main" />
+      <option name="METHOD_NAME" value="test00" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="Num9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ym.learn.exercises.Num9" />
+    <configuration name="Main.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyStudyMaterials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ym.learn.exercises.*" />
+          <option name="PATTERN" value="com.ym.learn.callback.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ym.learn.callback" />
+      <option name="MAIN_CLASS_NAME" value="com.ym.learn.callback.Main" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <list>
-      <item itemvalue="Application.Num5" />
-      <item itemvalue="Application.Num6" />
-      <item itemvalue="Application.Num10" />
-      <item itemvalue="Application.Num9" />
-      <item itemvalue="Application.Num8" />
+      <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.Main.test" />
+      <item itemvalue="JUnit.Main.test01" />
+      <item itemvalue="JUnit.Main.test00" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Num8" />
-        <item itemvalue="Application.Num9" />
-        <item itemvalue="Application.Num10" />
-        <item itemvalue="Application.Num6" />
-        <item itemvalue="Application.Num5" />
+        <item itemvalue="JUnit.Main.test00" />
+        <item itemvalue="JUnit.Main.test01" />
+        <item itemvalue="JUnit.Main.test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ThreadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -465,44 +499,56 @@
       <workItem from="1552380282333" duration="5185000" />
       <workItem from="1552554725641" duration="661000" />
       <workItem from="1552611976945" duration="3737000" />
-      <workItem from="1552871608822" duration="1967000" />
+      <workItem from="1552871608822" duration="2011000" />
+      <workItem from="1559030470408" duration="2536000" />
+      <workItem from="1564122477903" duration="6300000" />
+      <workItem from="1564627084160" duration="6332000" />
+      <workItem from="1564708180993" duration="797000" />
     </task>
+    <task id="LOCAL-00001" summary="新增黑马程序员内部十道题解答">
+      <created>1552896303722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552896303722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SingletonPatternDemo_LazyCompare - 2018.11.02 at 10h 54m 49s.xml">
-      <configuration name="SingletonPatternDemo.LazyCompare" configurationId="JUnit" />
+    <history-entry file="ListTest_fun - 2019.07.26 at 15h 41m 55s.xml">
+      <configuration name="ListTest.fun" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingletonPatternDemo_LazyCompare - 2018.11.02 at 10h 55m 17s.xml">
-      <configuration name="SingletonPatternDemo.LazyCompare" configurationId="JUnit" />
+    <history-entry file="ListTest_fun - 2019.07.26 at 15h 42m 43s.xml">
+      <configuration name="ListTest.fun" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingletonPatternDemo_LazyCompare - 2018.11.02 at 10h 55m 41s.xml">
-      <configuration name="SingletonPatternDemo.LazyCompare" configurationId="JUnit" />
+    <history-entry file="ListTest - 2019.08.01 at 10h 39m 15s.xml">
+      <configuration name="ListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingletonPatternDemo_LazyCompare - 2018.11.02 at 10h 56m 27s.xml">
-      <configuration name="SingletonPatternDemo.LazyCompare" configurationId="JUnit" />
+    <history-entry file="Main_test - 2019.08.01 at 17h 56m 46s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingletonPatternDemo_getSingleDCL - 2018.11.02 at 11h 04m 55s.xml">
-      <configuration name="SingletonPatternDemo.getSingleDCL" configurationId="JUnit" />
+    <history-entry file="Main_test01 - 2019.08.01 at 17h 58m 22s.xml">
+      <configuration name="Main.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingletonPatternDemo_getSingleEnum - 2018.11.02 at 11h 09m 23s.xml">
-      <configuration name="SingletonPatternDemo.getSingleEnum" configurationId="JUnit" />
+    <history-entry file="Main_test01 - 2019.08.01 at 17h 58m 47s.xml">
+      <configuration name="Main.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingletonPatternDemo_getSingleEnum - 2018.11.02 at 11h 12m 00s.xml">
-      <configuration name="SingletonPatternDemo.getSingleEnum" configurationId="JUnit" />
+    <history-entry file="Main_test01 - 2019.08.01 at 17h 58m 54s.xml">
+      <configuration name="Main.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingletonPatternDemo_getSingleEnum - 2018.11.02 at 11h 19m 05s.xml">
-      <configuration name="SingletonPatternDemo.getSingleEnum" configurationId="JUnit" />
+    <history-entry file="Main_test01 - 2019.08.01 at 18h 01m 24s.xml">
+      <configuration name="Main.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingletonPatternDemo_getSingleEnum - 2018.11.02 at 11h 19m 50s.xml">
-      <configuration name="SingletonPatternDemo.getSingleEnum" configurationId="JUnit" />
+    <history-entry file="Main_test01 - 2019.08.01 at 18h 03m 03s.xml">
+      <configuration name="Main.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EnumMain_EnumNo1 - 2018.11.02 at 12h 05m 35s.xml">
-      <configuration name="EnumMain.EnumNo1" configurationId="JUnit" />
+    <history-entry file="Main_test00 - 2019.08.02 at 09h 14m 54s.xml">
+      <configuration name="Main.test00" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79145000" />
+    <option name="totallyTimeSpent" value="95154000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -514,32 +560,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="544" y="161" width="1686" height="833" extended-state="0" />
+    <frame x="16" y="97" width="1608" height="952" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32904148" />
+      <window_info anchor="right" id="RestServices" order="4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3296433" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27377522" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="right" id="Mongo Explorer" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20664206" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20049201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18023255" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39769453" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39729398" />
+      <window_info anchor="right" id="Mongo Explorer" order="9" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -555,145 +602,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增黑马程序员内部十道题解答" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增黑马程序员内部十道题解答" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="29" />
+      <option name="time" value="43" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/enumBean/EnumDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/enumBean/EnumMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/util/StringUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleLazySafety.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleDCL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleLazy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/SingletonPattern/SingleRegister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/DesignPatternIntro">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/TemplatePattern/CindyEveryDay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/TemplatePattern/EveryDay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/StrategyPattern/Work.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/TemplatePattern/TheMainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/TemplatePattern/SevenEveryDay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/TemplatePattern/Info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/StrategyPattern/Info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/StrategyPattern/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/StrategyPattern/EndWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="109" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/StrategyPattern/MidmonthWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="89" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/StrategyPattern/EarlyWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ym/learn/DesignPattern/StrategyPattern/TheMainClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -799,13 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85538">
@@ -817,13 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13889">
           <caret line="764" column="26" selection-start-line="764" selection-start-column="26" selection-end-line="764" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3971">
-          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -845,10 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,24 +768,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
+        <state relative-caret-position="703">
           <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="323">
           <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
+        <state relative-caret-position="684">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
@@ -894,9 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -904,10 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -920,18 +810,179 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/LinkStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="171">
           <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ym/learn/exercises/Num6.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/socket/ClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-878">
+          <caret line="151" column="8" lean-forward="true" selection-start-line="151" selection-start-column="8" selection-end-line="151" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ConcurrentModificationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-268">
+          <caret line="76" column="11" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/list/D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/list/B.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/list/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/list/pojo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/list/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8550">
+          <caret line="494" column="52" selection-start-line="494" selection-start-column="52" selection-end-line="494" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8626">
+          <caret line="491" column="26" selection-start-line="491" selection-start-column="26" selection-end-line="491" selection-end-column="26" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#15414#15415#0" expanded="true" />
+            <element signature="e#15459#15460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/thread/ThreadPrint.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/thread/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/list/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/callback/Cindy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/callback/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/callback/Callback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/callback/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ym/learn/callback/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
